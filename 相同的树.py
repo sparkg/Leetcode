@@ -4,7 +4,7 @@
 #         self.val = x
 #         self.left = None
 #         self.right = None
-# change for commit
+# this game is too hard
 
 class Solution(object):
     def isSameTree(self, p, q):
